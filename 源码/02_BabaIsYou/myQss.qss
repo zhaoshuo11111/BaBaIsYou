@@ -1,0 +1,39 @@
+/* QPushButton ------------------------------------------------------------
+摁键
+https://doc.qt.io/qt-5/stylesheet-examples.html#customizing-qpushbutton
+
+--------------------------------------------------------------------------- */
+QPushButton {
+background: qlineargradient(spread:pad,x1:0,y1:0,x2:0,y2:1,stop:0 #646464 , stop:1 #525252);
+border: 1px solid #969696;
+color: #FFFFFF;
+border-radius: 4px;
+padding: 1px;
+min-height: 25px;
+min-width: 35px;
+}
+QPushButton:hover {
+background-color: #00BB9E;
+border: 1px solid #00BB9E;
+color: #FFFFFF;
+}
+QPushButton:pressed {
+background-color: #969696;
+border: 1px solid #00BB9E;
+color: #FFFFFF;
+}
+QPushButton:focus {
+border: 1px solid #00BB9E;
+}
+QPushButton:!enabled {
+background-color: #4F4F4F;
+border: 1px solid #404244;
+border-style: inset;
+}
+QLabel {
+background: transparent;
+color: #FFFFFF;
+border-radius: 4px;
+padding: 3px;
+font: normal normal 30px "微软雅黑";
+}

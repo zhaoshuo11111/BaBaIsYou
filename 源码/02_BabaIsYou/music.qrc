@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/baba.wav</file>
+        <file>music/buttonPush.wav</file>
+        <file>music/buttonUp.wav</file>
+        <file>music/defeat.wav</file>
+        <file>music/effectUpdate.wav</file>
+        <file>music/move.wav</file>
+        <file>music/win.wav</file>
+        <file>music/crystal.wav</file>
+        <file>music/map.wav</file>
+        <file>music/menu.wav</file>
+        <file>music/rain.wav</file>
+        <file>music/star.wav</file>
+        <file>music/bomb.wav</file>
+        <file>music/changePage.wav</file>
+        <file>music/beast.wav</file>
+    </qresource>
+</RCC>

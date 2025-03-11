@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map/map_island.txt</file>
+        <file>map/map_lava.txt</file>
+        <file>map/map_water.txt</file>
+    </qresource>
+</RCC>

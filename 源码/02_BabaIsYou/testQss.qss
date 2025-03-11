@@ -1,0 +1,32 @@
+/* QPushButton ------------------------------------------------------------
+摁键
+https://doc.qt.io/qt-5/stylesheet-examples.html#customizing-qpushbutton
+border为边框颜色，像素大小等
+不支持//注释
+--------------------------------------------------------------------------- */
+QPushButton {
+background: rgb(23,17,73);
+border: 1px solid rgb(88,78,178);
+color: #FFFFFF;
+border-radius: 4px;
+padding: 1px;
+font: normal bold 15px "黑体";
+}
+QPushButton:hover {
+background-color: rgb(88,78,178);
+border: 1px solid rgb(88,78,178);
+color: #FFFFFF;
+}
+QPushButton:pressed {
+background-color: rgb(88,78,178);
+border: 1px solid rgb(88,78,178);
+color: #FFFFFF;
+}
+QPushButton:focus {
+border: 1px solid rgb(88,78,178);
+}
+QPushButton:!enabled {
+background-color: rgb(88,78,178);
+border: 1px solid rgb(88,78,178);
+border-style: inset;
+}

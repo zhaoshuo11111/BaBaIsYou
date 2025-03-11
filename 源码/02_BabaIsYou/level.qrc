@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>level/test.txt</file>
+        <file>level/lava/11.txt</file>
+        <file>level/water/10.txt</file>
+        <file>level/water/11.txt</file>
+        <file>level/water/12.txt</file>
+        <file>level/water/13.txt</file>
+        <file>level/lava/0.txt</file>
+        <file>level/water/1.txt</file>
+        <file>level/water/2.txt</file>
+        <file>level/water/3.txt</file>
+        <file>level/water/4.txt</file>
+        <file>level/water/5.txt</file>
+        <file>level/water/6.txt</file>
+        <file>level/water/7.txt</file>
+        <file>level/water/8.txt</file>
+        <file>level/water/9.txt</file>
+        <file>level/island/test.txt</file>
+        <file>level/island/5.txt</file>
+        <file>level/island/6.txt</file>
+        <file>level/island/7.txt</file>
+        <file>level/water/0.txt</file>
+        <file>level/lava/1.txt</file>
+        <file>level/lava/2.txt</file>
+        <file>level/lava/3.txt</file>
+        <file>level/lava/4.txt</file>
+        <file>level/lava/5.txt</file>
+        <file>level/lava/6.txt</file>
+        <file>level/lava/8.txt</file>
+        <file>level/lava/7.txt</file>
+        <file>level/lava/9.txt</file>
+        <file>level/lava/10.txt</file>
+        <file>level/editor/a.txt</file>
+        <file>level/island/0.txt</file>
+        <file>level/island/1.txt</file>
+        <file>level/island/2.txt</file>
+        <file>level/island/3.txt</file>
+        <file>level/island/4.txt</file>
+    </qresource>
+</RCC>
